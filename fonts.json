@@ -1,0 +1,110 @@
+{
+    "Courier": {
+        "superscript": false,
+        "italic": false,
+        "serifed": false,
+        "sans": true,
+        "monospaced": true,
+        "proportional": false,
+        "bold": false
+    },
+    "Helvetica": {
+        "superscript": false,
+        "italic": false,
+        "serifed": false,
+        "sans": true,
+        "monospaced": false,
+        "proportional": true,
+        "bold": false
+    },
+    "Courier-Oblique": {
+        "superscript": false,
+        "italic": true,
+        "serifed": false,
+        "sans": true,
+        "monospaced": true,
+        "proportional": false,
+        "bold": false
+    },
+    "Courier-Bold": {
+        "superscript": false,
+        "italic": false,
+        "serifed": false,
+        "sans": true,
+        "monospaced": true,
+        "proportional": false,
+        "bold": true
+    },
+    "Courier-BoldOblique": {
+        "superscript": false,
+        "italic": true,
+        "serifed": false,
+        "sans": true,
+        "monospaced": true,
+        "proportional": false,
+        "bold": true
+    },
+    "Helvetica-Oblique": {
+        "superscript": false,
+        "italic": true,
+        "serifed": false,
+        "sans": true,
+        "monospaced": false,
+        "proportional": true,
+        "bold": false
+    },
+    "Helvetica-Bold": {
+        "superscript": false,
+        "italic": false,
+        "serifed": false,
+        "sans": true,
+        "monospaced": false,
+        "proportional": true,
+        "bold": true
+    },
+    "Helvetica-BoldOblique": {
+        "superscript": false,
+        "italic": true,
+        "serifed": false,
+        "sans": true,
+        "monospaced": false,
+        "proportional": true,
+        "bold": true
+    },
+    "Times-Roman": {
+        "superscript": false,
+        "italic": false,
+        "serifed": true,
+        "sans": false,
+        "monospaced": false,
+        "proportional": true,
+        "bold": false
+    },
+    "Times-Italic": {
+        "superscript": false,
+        "italic": true,
+        "serifed": true,
+        "sans": false,
+        "monospaced": false,
+        "proportional": true,
+        "bold": false
+    },
+    "Times-Bold": {
+        "superscript": false,
+        "italic": false,
+        "serifed": true,
+        "sans": false,
+        "monospaced": false,
+        "proportional": true,
+        "bold": true
+    },
+    "Times-BoldItalic": {
+        "superscript": false,
+        "italic": true,
+        "serifed": true,
+        "sans": false,
+        "monospaced": false,
+        "proportional": true,
+        "bold": true
+    }
+}
